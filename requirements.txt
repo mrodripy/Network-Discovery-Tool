@@ -1,0 +1,4 @@
+ini
+python-nmap==0.0.1
+requests==2.31.0
+colorama==0.4.6
